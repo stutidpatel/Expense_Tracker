@@ -1,8 +1,7 @@
 ﻿# Expense Tracker
-
-Kanisha Shah 
-
+~Authors
 Stuti Patel 
+Kanisha Shah 
 
 
 
@@ -79,7 +78,7 @@ import mysql.connector
 
 ## #It connects you to your Server
 myb = mysql.connector.connect(host="localhost" **,** user="root" **,**
-passwd="KANISHA*23")
+passwd="xuprT44@stuti")
 
 ## #Returns Object of your Server through which we can modify it
 mycursor = myb.cursor()
@@ -93,7 +92,7 @@ mycursor.execute("CREATE DATABASE ExpenseTracker")
 import mysql.connector
 
 myb = mysql.connector.connect(host="localhost" **,** user="root" **,**
-passwd="KANISHA*23" **,** database="ExpenseTracker")
+passwd="xuprT44@stuti" **,** database="ExpenseTracker")
 
 mycursor = myb.cursor()
 
@@ -116,7 +115,7 @@ import mysql.connector
 from matplotlib import pyplot as plt
 
 myb = mysql.connector.connect(host="localhost" **,** user="root" **,**
-passwd="KANISHA*23" **,** database="ExpenseTracker")
+passwd="xuprT44@stuti" **,** database="ExpenseTracker")
 
 ## #Object return points there
 mycursor = myb.cursor()
