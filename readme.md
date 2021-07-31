@@ -1,12 +1,8 @@
 ﻿# Expense Tracker
 
-Innovative Assignment
+Kanisha Shah 
 
-Programming for Scientific Computing
-
-Kanisha Shah 19BCE253
-
-Stuti Patel 19BCE269
+Stuti Patel 
 
 
 
